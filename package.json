@@ -16,9 +16,8 @@
     "url": "https://github.com/chrisdavies/hypermiddleware"
   },
   "keywords": [
-    "routing",
     "hyperapp",
-    "router"
+    "middleware"
   ],
   "files": [
     "dist"
